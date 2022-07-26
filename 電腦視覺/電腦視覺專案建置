@@ -1,0 +1,7 @@
+https://drive.google.com/file/d/1X8pnf_REbco3tt8RR5iqteE1CG5al4Iw/view?usp=sharing
+
+解壓縮後，放到  Source  ->  Repos  裡
+
+開啟  Visual Studio ，點擊 <開啟專案或解決方案>
+
+選擇  <Project1.sln>  即可開啟，有時候第一次會失敗，要關閉方案，重用一次即可
